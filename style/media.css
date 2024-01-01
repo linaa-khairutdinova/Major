@@ -1,0 +1,15 @@
+@media (max-width: 767px) {
+    .bloc-record-player h3 {
+        font-size: 14px;
+    }
+    .main-title {
+        font-size: 33px !important;
+        margin-top: 72px !important;
+    }
+
+    .box-button{
+        width: 100% !important;
+        margin: auto !important;
+    }
+
+}
