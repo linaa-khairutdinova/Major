@@ -1,0 +1,35 @@
+@media (max-width: 767px) {
+    .bloc-record-player h3 {
+        font-size: 12px;
+    }
+
+    .main-title {
+        font-size: 33px !important;
+        margin-top: 72px !important;
+    }
+
+    .box-button {
+        width: 100% !important;
+        margin: auto !important;
+    }
+
+    .dropdown,
+    .dropup {
+        padding-left: 0px !important;
+    }
+
+    .nav>li>a {
+        padding: 0px !important;
+    }
+
+}
+
+@media (max-width: 984px) {
+    .iframe-one {
+        border-radius: 0px 0px 10px 10px !important;
+    }
+
+    .border-radius {
+        border-radius: 10px 10px 0px 0px !important;
+    }
+}
